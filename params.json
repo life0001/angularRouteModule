@@ -1,0 +1,6 @@
+{
+  "name": "Angularroutemodule",
+  "tagline": "angularJS路由、模块、依赖注入DEMO",
+  "body": "<style>\r\n.ff{color:red;}\r\n</style>\r\n<div class=\"ff\">了深刻的减肥</div>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
